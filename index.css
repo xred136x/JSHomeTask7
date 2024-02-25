@@ -1,0 +1,42 @@
+#container{
+    margin: 10px;
+    padding: 10px;
+
+    border: 2px solid black;
+    width: 54px;
+    height: 180px;
+    border-radius: 15px;
+}
+#block1{
+    margin-bottom: 10px;
+    width: 50px;
+    height: 50px;
+
+    border: 2px solid black;
+    border-radius: 25px;
+}
+#block2{
+    margin-bottom: 10px;
+    width: 50px;
+    height: 50px;
+
+    border: 2px solid black;
+    border-radius: 25px;
+}
+#block3{
+    width: 50px;
+    height: 50px;
+
+    border: 2px solid black;
+    border-radius: 25px;
+}
+#block{
+    margin: 20px;
+    padding: 0px;
+
+    border: 2px solid black;
+    width: 54px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
